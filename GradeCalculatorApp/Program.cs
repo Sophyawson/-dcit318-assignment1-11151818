@@ -22,7 +22,7 @@ namespace GradeCalculator
                     if (grade >= 0 && grade <= 100)
                         isValid = true;
                     else
-                        Console.WriteLine(" Numerical grade must be between 0 and 100.");
+                        Console.WriteLine("Numerical grade must be between 0 and 100.");
                 }
                 else
                 {
